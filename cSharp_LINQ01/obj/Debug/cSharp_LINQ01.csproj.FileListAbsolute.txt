@@ -1,0 +1,10 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\bin\Debug\cSharp_LINQ01.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\bin\Debug\cSharp_LINQ01.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\bin\Debug\cSharp_LINQ01.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.Form1.resources
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.Properties.Resources.resources
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.csproj.GenerateResource.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\PGDM_02_cSharp_LINQ01\cSharp_LINQ01\obj\Debug\cSharp_LINQ01.pdb
